@@ -10,3 +10,4 @@ This is meant to be a really quick overview of Python, in a walkthrough style (a
 ### Authors
 * Steve Androulakis (Monash University)
 * Simon Michnowicz (Monash University)
+* Stuart Archer (Monash University)
